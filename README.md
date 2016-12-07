@@ -18,7 +18,8 @@ ProcessingJS Starter Kit
 +-- .babelrc
 +-- README.md
 ```
-Quick Start:
+
+### Quick Start:
 
 1. Clone or download the git repo:
 ```
