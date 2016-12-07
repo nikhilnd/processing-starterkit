@@ -1,9 +1,7 @@
 # ProcessingJS Starter Kit
 ## A starter kit for running Processing in the browser
 
-`
-
-ProcessingJS Starter Kit
+`ProcessingJS Starter Kit
 | -- dist/
 |   | -- app.js
 |   | -- main.css
@@ -17,6 +15,4 @@ ProcessingJS Starter Kit
 | -- index.html
 | -- gulpfile.js
 | -- .babelrc
-| -- README.md
-
-`
+| -- README.md`
