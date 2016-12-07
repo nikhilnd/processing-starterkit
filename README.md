@@ -18,3 +18,19 @@ ProcessingJS Starter Kit
 +-- .babelrc
 +-- README.md
 ```
+Quick Start:
+
+1. Clone or download the git repo:
+```
+https://github.com/nikhilnd/processing-starterkit.git
+```
+
+2. Install dependencies(must have node and npm):
+```
+npm install
+```
+
+3. Run the server(must have gulp installed):
+```
+gulp
+```
